@@ -17,7 +17,7 @@ Thing to mention:
  - This is just for fun! :D
  - This took a while to make!
  - I used pygame(not pygame zero) to make this!
- - Next I'm making a Bitcoin like thing!!!
+ - Next I'm making a Bitcoin like thing(Hopefully)!!!
 
 Credits:
  - All credit go to...Clean code on Youtube! I was learning Pygame and learned from him!
