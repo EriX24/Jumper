@@ -13,7 +13,7 @@ Info:
  - There are no TODOs in main.py
 
 Thing to mention:
- - It says "YongbinFan Debugged main.py" but it's a error to do with my stuff...just ignore it please!
+ - It says "YongbinFan..." but it's a error to do with my stuff...just ignore it please!
  - This is just for fun! :D
  - This took a while to make!
  - I used pygame(not pygame zero) to make this!
